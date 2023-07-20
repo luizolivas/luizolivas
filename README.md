@@ -5,9 +5,9 @@
 
 ## 📖 Sobre mim
 
-* 🎓 Cursando Analise e Desenvolvimento de Sistemas no IFPR
-* 📚 Atualmente estou aprendendo sobre tecnologias Frontend e Backend, com maior foco no Backend
-* 👨‍💻 Atualmente estou trabalhando em tecnologias de desenvolvimento como C#, ASP.NET
+* 🎓 Cursando Analise e Desenvolvimento de Sistemas no IFPR, com conclusão em dezembro de 2023.
+* 📚 Atualmente estou aprendendo sobre tecnologias Frontend e Backend, com maior foco no Backend.
+* 👨‍💻 Atualmente estou trabalhando em tecnologias de desenvolvimento como C#, ASP.NET.
 
 
 
@@ -50,8 +50,7 @@
 </p>
 
 
- ## Contato
- 
+ ## 
 <div> 
   <a href="https://www.linkedin.com/in/luiz-henrique-oliva-silva-42128221a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
