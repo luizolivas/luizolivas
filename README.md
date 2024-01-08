@@ -5,7 +5,7 @@
 
 ## 📖 Sobre mim
 
-* 🎓 Cursando Analise e Desenvolvimento de Sistemas no IFPR, com conclusão em dezembro de 2023.
+* 🎓 Analise e Desenvolvimento de Sistemas - IFPR (Concluído em dezembro de 2023).
 * 📚 Atualmente estou aprendendo sobre tecnologias Frontend e Backend, com maior foco no Backend.
 * 👨‍💻 Atualmente estou trabalhando em tecnologias de desenvolvimento como C#, ASP.NET.
 
