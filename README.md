@@ -5,9 +5,9 @@
 
 ## 📖 Sobre mim
 
-* 🎓 Analise e Desenvolvimento de Sistemas - IFPR (Concluído em dezembro de 2023).
-* 📚 Atualmente estou aprendendo sobre tecnologias Frontend e Backend, com maior foco no Backend.
-* 👨‍💻 Atualmente estou trabalhando em tecnologias de desenvolvimento como C#, ASP.NET.
+* 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPR (Concluído em dezembro de 2023).
+* 📚 Explorando tecnologias Frontend e Backend, com ênfase no desenvolvimento Backend.
+* 👨‍💻 Trabalhando atualmente com C# e ASP.NET.
 
 
 
