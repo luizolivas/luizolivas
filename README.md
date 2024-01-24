@@ -7,7 +7,8 @@
 
 * 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPR (Concluído em dezembro de 2023).
 * 📚 Explorando tecnologias Frontend e Backend, com ênfase no desenvolvimento Backend.
-* 👨‍💻 Trabalhando atualmente com C# e ASP.NET.
+* 👨‍💻 Trabalhando com C# e ASP.NET.
+* 🎮 Criando um jogo na Unity por diversão.
 
 
 
@@ -46,6 +47,9 @@
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
   <img align="center" alt="Eclipse" height="30" width="40" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg">
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 </div>
     
 </p>
