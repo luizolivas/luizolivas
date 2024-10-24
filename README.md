@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=luizolivas)
+
 ## 📖 Sobre mim
 
 * 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPR (Concluído em dezembro de 2023).
