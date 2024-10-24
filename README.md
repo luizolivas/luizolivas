@@ -1,14 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h3 align="center">Olá, eu sou o Luiz Henrique <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
-
 ## 📖 Sobre mim
 
 * 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPR (Concluído em dezembro de 2023).
 * 📚 Explorando tecnologias Frontend e Backend, com ênfase no desenvolvimento Backend.
 * 👨‍💻 Trabalhando com C# e ASP.NET.
 * 🎮 Criando um jogo na Unity por diversão.
+* 💼 Trabalhando como Analista Desenvolvedor Fullstack na Sistema Lift.
 
 
 
