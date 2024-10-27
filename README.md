@@ -5,7 +5,7 @@
 * 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo IFPR (Concluído em dezembro de 2023).
 * 📚 Explorando tecnologias Frontend e Backend, com ênfase no desenvolvimento Backend.
 * 👨‍💻 Trabalhando com C# e ASP.NET.
-* 🎮 Criando um jogo na Unity por diversão.
+* 🎮 Criando um jogo na Unity por Hobby.
 * 💼 Trabalhando como Analista Desenvolvedor Fullstack na Sistema Lift.
 
 
