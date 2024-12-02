@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=luizolivas)
 
 ## 📖 Sobre mim
 
